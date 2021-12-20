@@ -355,33 +355,33 @@ Prefix Start =
 Text Properties = Attributs du texte
 Text = Texte
 Color = Couleur
-Font Family =
-Font Size =
-Font Weight =
-Font Style =
+Font Family = police d'écriture
+Font Size = taille de police
+Font Weight = 
+Font Style = style de police
 Text Type =
 Text Anchor =
 Baseline = Ligne de base
-(Auto) =
-(auto) =
-start =
-middle =
-end =
+(Auto) = (auto)
+(auto) = (auto)
+start = démarrer
+middle = milieu
+end = fin
 inherit =
 comment =
 spice =
-normal =
-italic =
-Default =
-Add =
-bold =
-bolder =
-lighter =
+normal = normal
+italic = italique
+Default = par défaut
+Add = ajouter
+bold = gras
+bolder = très gras
+lighter = fin
 Failed to parse the font file: {name} =
 Please select a font file of ttf or woff format. =
-Add font success: {name} =
-Failed to add font: {name} =
-Add Font =
+Add font success: {name} = police ajoutée avec succès : {nom}
+Failed to add font: {name} = erreur d'ajout de la police : {nom}
+Add Font = ajouter la police
 Failed to parse cached font: {name} =
 Load cached fonts fail! =
 
@@ -402,22 +402,22 @@ Please change the editor to "Standard" mode first at the top left corner. =
 Common =
 spice.open =
 spice.close =
-Sources =
+Sources = sources
 Instruments/Meters = Instruments/mètres
-Transistors =
-Digital Circuits =
+Transistors = transistors
+Digital Circuits = circuits digitaux
 Operational Amplifier =
-multimeter =
-multimeter Settings =
+multimeter = multimètre
+multimeter Settings = paramètre du multimètre
 FunctionGenerator Settings =
-Voltage Source Settings =
-Current Source Settings =
+Voltage Source Settings = paramètres du générateur de tension
+Current Source Settings = paramètre du générateur de courant
 Powersw Settings =
-Resistor Settings =
-Capacitor Settings =
-Diode Settings =
+Resistor Settings = paramètres de la résistance
+Capacitor Settings = paramètres du condensateur
+Diode Settings = paramètres de la diode
 voltPowersw Settings =
-Inductor Settings =
+Inductor Settings = paramètres de l'inducteur
 VCVS Settings =
 CCCS Settings =
 VCCS Settings =
@@ -425,12 +425,12 @@ CCVS Settings =
 JFET Settings =
 FET Settings =
 Transmission Line Settings =
-Oscilloscope Settings =
+Oscilloscope Settings = paramètres de l'oscilloscope
 XFMR Settings =
 LOGIC Settings =
 LOGICSTATE Settings =
 DIGITALCLOCK Settings =
-Potentiometer Settings =
+Potentiometer Settings = paramètres du potentiomètre
 MUTUAL_INDUCTORS Settings =
 NE555 Settings =
 THREE_PHASE Settings =
@@ -442,30 +442,30 @@ OPAMP5PEECN Settings =
 OPAMP3PEE Settings =
 OPAMP3PEECN Settings =
 DELAY_FUSE Settings =
-Ratio =
+Ratio = ratio
 K[%]
 Model =
 States =
-Voltage[V]
+Voltage[V] = tension [V]
 Voltage gain[V/V]
 Current gain[A/A]
 Transconductance[Mho]
 Transresistance[Ω]
-Voltage Source Type =
-Current Source Type =
-multimeter type =
-power type =
-Voltmeter Resistance(R)(Ω) =
-Amperometer Resistance(R)(Ω) =
+Voltage Source Type = type de générateur de tension
+Current Source Type = type de générateur de courant
+multimeter type = type de multimètre
+power type = type d'alimentation
+Voltmeter Resistance(R)(Ω) = résistance du voltmètre
+Amperometer Resistance(R)(Ω) = résistance de l'ampèremètre
 mu.V =
 mu.A =
 Sine Wave =
 Triangular Wave =
 Rectangular Wave =
-AC =
-DC =
-SINE =
-PULSE =
+AC = courant alternatif
+DC = courant continu
+SINE = sinusoïde
+PULSE = pulsation
 EXP =
 SFFM =
 PWL =
@@ -476,7 +476,7 @@ DC offset[V]
 DC offset[A]
 Amplitude[V]
 Amplitude[A]
-Freq[Hz]
+Freq[Hz] = fréquence [Hz]
 Theta[1/s]
 Tdelay[s]
 Phi[deg]
@@ -523,9 +523,9 @@ Vabsmax[V]
 Vmin[V]
 Iq[A]
 Cin[F]
-high =
-low =
-Oscilloscope =
+high = haut
+low = bas
+Oscilloscope = Oscilloscope
 Logic Analyzer =
 Channel_A =
 Channel_B =
